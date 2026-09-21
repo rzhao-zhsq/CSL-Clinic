@@ -56,7 +56,7 @@ snapshot_download(
 
 ## Requesting the Complete Dataset
 
-The train and dev splits are not distributed publicly. Researchers who need the complete dataset should follow the instructions in [DATA_REQUEST.md](DATA_REQUEST.md) and email the corresponding author at [ydchen@xmu.edu.cn](mailto:ydchen@xmu.edu.cn).
+The train and dev splits are not distributed publicly. Researchers who need the complete dataset should follow the [application procedure](DATA_REQUEST.md), complete the [CSL-Clinic Dataset Release Agreement (PDF)](agreements/CSL-Clinic_Dataset_Release_Agreement.pdf), and email the signed agreement to [ydchen@xmu.edu.cn](mailto:ydchen@xmu.edu.cn).
 
 Please do not redistribute any non-public portion of CSL-Clinic or attempt to identify the signers.
 

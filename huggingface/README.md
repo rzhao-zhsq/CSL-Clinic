@@ -25,12 +25,12 @@ This Hugging Face repository publicly distributes **only the 500-example test sp
 
 | Split | Examples | Availability |
 | --- | ---: | --- |
-| train | 5,000 | Available by email request |
-| dev | 472 | Available by email request |
+| train | 5,000 | Available by approved application |
+| dev | 472 | Available by approved application |
 | test | 500 | Public in this repository |
 | **Total** | **5,972** |  |
 
-To request the complete dataset, follow the instructions in the [GitHub repository](https://github.com/rzhao-zhsq/CSL-Clinic/blob/main/DATA_REQUEST.md) and email the corresponding author at [ydchen@xmu.edu.cn](mailto:ydchen@xmu.edu.cn).
+To request the complete dataset, follow the [application procedure](https://github.com/rzhao-zhsq/CSL-Clinic/blob/main/DATA_REQUEST.md), complete the [CSL-Clinic Dataset Release Agreement (PDF)](https://github.com/rzhao-zhsq/CSL-Clinic/blob/main/agreements/CSL-Clinic_Dataset_Release_Agreement.pdf), and email the signed agreement to [ydchen@xmu.edu.cn](mailto:ydchen@xmu.edu.cn).
 
 ## Dataset Structure
 
